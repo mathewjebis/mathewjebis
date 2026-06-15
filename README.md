@@ -12,8 +12,8 @@ Projects
 - [Task Manager](https://github.com/mathewjebis/task-manager)
 - [Calculator](https://github.com/mathewjebis/calculator)
 - [Form Validation](https://github.com/mathewjebis/form-validation)
-- [Restaurant Website](https://github.com/mathewjebis/restaurant-website)
-- [ShopEase Hub](https://github.com/mathewjebis/react-project)
+- [Restaurant Website](https://github.com/mathewjebis/RESTAURANT)
+- [ShopEase Hub](https://github.com/mathewjebis/ShopEase)
 
 Contact
 - Email: realmeuser1310@gmail.com
