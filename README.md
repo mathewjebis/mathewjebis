@@ -43,10 +43,8 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://vercel.app" alt="Mathew's GitHub Stats" />
-</p>
+[![GitHub Trophies](https://vercel.app)](https://github.com)
+
 
 ---
 
