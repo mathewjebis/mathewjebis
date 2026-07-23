@@ -43,10 +43,5 @@
 
 ---
 
-[![GitHub Trophies](https://vercel.app)](https://github.com)
-
-
----
-
 ### 📫 Let's Connect!
 * **Email:** realmeuser1310@gmail.com
