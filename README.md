@@ -44,7 +44,9 @@
 ---
 
 ### 📊 GitHub Activity
-![Mathew's GitHub Stats](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Mathew's GitHub Stats" />
+</p>
 
 ---
 
