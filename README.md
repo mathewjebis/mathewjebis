@@ -1,45 +1,53 @@
 # Hi, I'm Mathew Jebis 👋
-### FullStack Developer from Kanyakumari, Tamil Nadu
+### Full-Stack Developer from Kanyakumari, Tamil Nadu
 
 ---
 
-### 🛠️ Skills
---FRONTEND--
-* **JavaScript (ES6+)**
-* **React JS**
-* **HTML5 & CSS3**
-* **Tailwind CSS**
-* **Redux Toolkit**
-* **Git & GitHub**
+### 🛠️ Tech Stack
 
---BACKEND--
-* **Node.js**
-* **Express.js**
-* **MangoDB**
-* **Mongoose**
-* **JWT Authentication**
-  
---Tools--
-* **Git**
-* **GitHub**
-* **Thunder Cient**
-* **Netlify**
-* **Render**
-* **MongoDB Atlas**
+#### Frontend
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Redux](https://shields.io)
+![TailwindCSS](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+#### Backend & Databases
+![NodeJS](https://shields.io)
+![Express.js](https://shields.io)
+![MongoDB](https://shields.io)
+![JWT](https://shields.io)
+
+#### DevOps & Tools
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Netlify](https://shields.io)
+![Render](https://shields.io)
+
 ---
 
-### 💻Frontend Projects
+### 💻 Projects
 
-* **ShopEase Hub** — [Live Demo](https://stirring-twilight-44ce61.netlify.app/) | [Source Code](https://github.com/mathewjebis/ShopEase)
-* **Task Manager** — [Live Demo](https://mathewjebis.github.io/task-manager/) | [Source Code](https://github.com/mathewjebis/task-manager)
-* **Restaurant Website** — [Live Demo](https://mathewjebis.github.io/RESTAURANT/) | [Source Code](https://github.com/mathewjebis/RESTAURANT)
-* **Calculator** — [Live Demo](https://mathewjebis.github.io/Calculator/) | [Source Code](https://github.com/mathewjebis/calculator)
-* **Form Validation** — [Live Demo](https://mathewjebis.github.io/Form-Validation/) | [Source Code](https://github.com/mathewjebis/form-validation)
+#### 🚀 Featured Full-Stack Work
+* **Slottly (In Progress)** 
+  * Full-stack Appointment Booking Platform.
+  * **Tech:** Node.js, Express, MongoDB, React, JWT.
+  * [🛠️ View Source Code](https://github.com/mathewjebis/slottly)
 
-## Full stack Appointment Booking Platform (In progress)
+#### 🌐 Frontend Web Applications
+* **ShopEase Hub** — [🔗 Live Demo](https://stirring-twilight-44ce61.netlify.app/) | [💻 Source Code](https://github.com/mathewjebis/ShopEase)
+* **Task Manager** — [🔗 Live Demo](https://mathewjebis.github.io/task-manager/) | [💻 Source Code](https://github.com/mathewjebis/task-manager)
+* **Restaurant Website** — [🔗 Live Demo](https://mathewjebis.github.io/RESTAURANT/) | [💻 Source Code](https://github.com/mathewjebis/RESTAURANT)
+* **Calculator** — [🔗 Live Demo](https://mathewjebis.github.io/Calculator/) | [💻 Source Code](https://github.com/mathewjebis/calculator)
+* **Form Validation** — [🔗 Live Demo](https://mathewjebis.github.io/Form-Validation/) | [💻 Source Code](https://github.com/mathewjebis/form-validation)
 
-* **Slottly** - [Source Code](https://github.com/mathewjebis/slottly)
 ---
 
-### 📫 Contact
-* **Email:** [realmeuser1310@gmail.com](mailto:realmeuser1310@gmail.com)
+### 📊 GitHub Activity
+![Mathew's GitHub Stats](https://vercel.app)
+
+---
+
+### 📫 Let's Connect!
+* **Email:** realmeuser1310@gmail.com
